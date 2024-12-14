@@ -1,4 +1,4 @@
-**Walmart Business Intelligence Dashboard**
+**Walmart Business Intelligence Dashboard** Presented By: Rohit Kumar, Nikhil , Anuj, Naman 
 This dashboard provides an in-depth analysis of Walmart's business performance, leveraging data visualization to present key metrics and insights. Built using [specify the tool used, e.g., Power BI or Tableau], it showcases the following:
 ***Tools Used***
 Power BI
